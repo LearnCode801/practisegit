@@ -1,4 +1,4 @@
-def addition():
+def addition(a,b,c):
 #  this is the app.py file
     res=2+5
     print(res)
