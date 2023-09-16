@@ -3,3 +3,8 @@ def addition():
     res=2+5
     print(res)
 
+def sub():
+#  this is the app.py file
+    res=2-5
+    print(res)
+
