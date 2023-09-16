@@ -8,7 +8,7 @@ def sub(x,y,z):
     res=2-5
     print(res)
 
-def mul():
+def mul(x,y,z):
 #  this is the app.py file
     res=2*5
     print(res)
