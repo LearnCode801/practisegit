@@ -13,7 +13,7 @@ def mul():
     res=2*5
     print(res)
 
-def div():
+def div(p,q,r):
 #  this is the app.py file
     res=2/5
     print(res)
