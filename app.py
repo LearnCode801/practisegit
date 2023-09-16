@@ -8,12 +8,12 @@ def sub(x,y,z):
     res=x-y-z
     print(res)
 
-def mul(x,y,z):
+def mul(x,y,w):
 #  this is the app.py file
     res=x*y*z
     print(res)
 
-def div(m,n,o):
+def div(m,n,t):
 #  this is the app.py file
     res=2/5
     print(res)
