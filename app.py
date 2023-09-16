@@ -5,12 +5,12 @@ def addition(a,b,c):
 
 def sub(x,y,z):
 #  this is the app.py file
-    res=2-5
+    res=x-y-z
     print(res)
 
 def mul(x,y,z):
 #  this is the app.py file
-    res=2*5
+    res=x*y*z
     print(res)
 
 def div(m,n,o):
